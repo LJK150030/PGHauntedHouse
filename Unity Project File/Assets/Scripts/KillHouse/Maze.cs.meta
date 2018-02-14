@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 25814a3b26fa020419f9ece3aaf6220e
+timeCreated: 1468380668
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {fileID: 11479280, guid: 3bd60c2e134e9804aad3bfa4910b445b, type: 2}
+  - passagePrefab: {fileID: 11427374, guid: 73e060a3f8e49594ab383eb5805ccb40, type: 2}
+  - doorPrefab: {fileID: 11449622, guid: 7636ba4116226924c92d3b6161923598, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

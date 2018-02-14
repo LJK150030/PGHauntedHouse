@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b693316f24425634da4d502b965fb0f0
+timeCreated: 1468204553
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - currentCell: {instanceID: 0}
+  - playArea: {fileID: 11433706, guid: 24b71cdfa53a3894a8130efd5d24cd08, type: 2}
+  - Stand: {fileID: 151454, guid: 01f29be5feda379458911673a6b90e7b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

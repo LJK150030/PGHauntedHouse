@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 141b77b9175dd1b45a6ed6323c9888e8
+timeCreated: 1467821377
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cell: {instanceID: 0}
+  - otherCell: {instanceID: 0}
+  - hinge: {fileID: 460240, guid: 7636ba4116226924c92d3b6161923598, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

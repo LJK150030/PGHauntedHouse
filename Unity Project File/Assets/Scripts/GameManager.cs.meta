@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d06ca45435b61b04fb89a54878be0883
+timeCreated: 1468380655
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mazePrefab: {fileID: 11433706, guid: 24b71cdfa53a3894a8130efd5d24cd08, type: 2}
+  - playerPrefab: {fileID: 11404812, guid: 190ff62bb567f4c4facab807a4049695, type: 2}
+  - BatteriesPreFab: {fileID: 11479634, guid: 735eee69d902d7f4aaed277fe436fb18, type: 2}
+  - GhostPreFab: {fileID: 11460110, guid: 379e8a4ffecbad747843b77ddf7dc182, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
